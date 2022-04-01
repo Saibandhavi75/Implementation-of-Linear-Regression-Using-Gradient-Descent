@@ -64,7 +64,7 @@ plt.xlabel("Iterations")
 plt.ylabel("loss")
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![linear regression using gradient descent](https://github.com/Saibandhavi75/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ex%201.PNG?raw=true)
 ![output](https://github.com/Saibandhavi75/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ex%201.PNG?raw=true)
 ![output](https://github.com/Saibandhavi75/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ex%201-1.PNG?raw=true)
 
