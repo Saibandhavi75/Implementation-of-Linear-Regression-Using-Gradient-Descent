@@ -62,10 +62,11 @@ plt.title("Study hours vs. Scores")
 plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
+```
 
 ## Output:
 ![output](https://github.com/Saibandhavi75/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ex%201.PNG?raw=true)
 ![output](https://github.com/Saibandhavi75/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ex%201-1.PNG?raw=true)
 
 ## Result:
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+Thus the program to implement the linear regression using gradient descent is written and verified using python programmin
